@@ -1,7 +1,7 @@
 # HealthAnalytics
 Liver Disease Prediction with Machine Learning in Python
 
-	<img align="center" src=https://user-images.githubusercontent.com/111542025/232332134-f186af28-183f-4cac-896a-3c75d08e9c0d.png>
+<img align="center" src=https://user-images.githubusercontent.com/111542025/232332134-f186af28-183f-4cac-896a-3c75d08e9c0d.png>
 
 ## This is the 1st version
 
